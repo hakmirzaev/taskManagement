@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Task Management
 //
-//  Created by Balaji on 07/07/23.
+//  Created by Bekhruzjon Hakmirzaev on 07/07/23.
 //
 
 import SwiftUI

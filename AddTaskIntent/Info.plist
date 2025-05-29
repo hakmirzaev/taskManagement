@@ -9,7 +9,13 @@
 			<key>IntentsRestrictedWhileLocked</key>
 			<array/>
 			<key>IntentsSupported</key>
-			<array/>
+			<array>
+				<string>AddTaskIntent
+</string>
+				<string>INAddTasksIntent
+</string>
+				<string>IntentsRestrictedWhileLocked</string>
+			</array>
 		</dict>
 		<key>NSExtensionPointIdentifier</key>
 		<string>com.apple.intents-service</string>
